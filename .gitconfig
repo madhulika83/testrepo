@@ -1,0 +1,10 @@
+[user]
+    name = madhulika83
+    email = mkannuswamy@roblox.com
+[core]
+    editor = vi 
+[color]
+    status = auto
+    branch = auto
+    interactive = auto
+    diff = auto
